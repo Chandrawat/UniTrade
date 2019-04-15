@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UniTrade</string>
+    <string name="notRegistered">Not Registered? SigUp in here</string>
+    <string name="logIn">Log In</string>
+    <string name="loginHeading">Login</string>
+    <string name="registeredHere">Registered? Sign in here</string>
+    <string name="registerButtonText">Register</string>
+    <string name="user_registration">User Registration</string>
+    <string name="log_out">Log out</string>
+    <string name="profile">Profile</string>
+</resources>

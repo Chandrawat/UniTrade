@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="userRegister">#86BBEC</color>
+    <color name="loginPage">#C57773</color>
+
+    <color name="userMainPage">#9CB69D</color>
+
+    <color name="registerButton">#546BF3</color>
+    <color name="loginButton">#D18DA0</color>
+
+</resources>

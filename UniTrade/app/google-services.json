@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "393535276332",
+    "firebase_url": "https://tradeoffer-8c6cf.firebaseio.com",
+    "project_id": "tradeoffer-8c6cf",
+    "storage_bucket": "tradeoffer-8c6cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393535276332:android:c294d30418074794",
+        "android_client_info": {
+          "package_name": "com.pace.trade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393535276332-hst9hfra6s1drhvp2bdd33eq98i7d8ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pace.trade",
+            "certificate_hash": "53d4f232f0dbc336ae1a11d7c2a93a912fce68aa"
+          }
+        },
+        {
+          "client_id": "393535276332-tgcr2m7s50qtd6eqtaj5tsjgpkprqm23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCT3AiVaUmzYYpPprT9UICKa8qiKIRywM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393535276332-tgcr2m7s50qtd6eqtaj5tsjgpkprqm23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
